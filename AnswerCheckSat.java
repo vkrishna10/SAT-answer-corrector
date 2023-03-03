@@ -84,7 +84,7 @@ public class AnswerCheckSat{
 			mathCCheck(mathCAns);
 		}
 
-		reader.close();
+		//reader.close();
 
 	}
 
